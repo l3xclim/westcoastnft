@@ -1,0 +1,131 @@
+body {
+	background: #010101;
+	color: #FCFCFC;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.container {
+	width: 960px;
+  margin: 0 auto;
+}
+
+#top-section {
+  margin-top: 50px;
+}
+
+.logo {
+  width: 190px;
+  display: inline-block;
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+.logo img {
+  width: 100%;
+}
+
+.top-right {
+  width: 325px;
+  float: right;
+}
+
+p {
+  margin-bottom: 25px;
+  line-height: 1.5em;
+  letter-spacing: 0.5px;
+  font-size: 14px;
+}
+
+strong {
+  font-weight: 700;
+}
+
+#mid-section {
+  text-align: center;
+  position: relative;
+  height: 200px;
+}
+
+.arrow-left {
+  width: 104px;
+  position: absolute;
+  left: 110px;
+  top: 100px;
+}
+
+.arrow-right {
+  width: 150px;
+  position: absolute;
+  right: 370px;
+  top: -80px;
+}
+
+.tagline {
+  width: 420px;
+  position: absolute;
+  left: 210px;
+  right: -50%;
+}
+
+ul.team-members {
+  display: inline-block;
+  width: 420px;
+}
+
+ul.team-members li {
+  display: block;
+  height: 95px;
+}
+
+ul.team-members li img {
+  width: 65px;
+  float: left;
+  margin-right: 10px;
+}
+
+ul.team-members li .profile {
+  float: left;
+  margin-top: 10px;
+  line-height: 1.3em;
+}
+
+ul.team-members li .profile span.discord-name {
+  font-family: Monaco, Courier, monospace;
+  letter-spacing: 1px;
+  font-size: 12px;
+  color: #CCC;
+}
+
+ul.team-members li .profile span.name {
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 22px;
+  margin-left: 10px;
+
+}
+
+ul.team-members li .profile span.title {
+  display: block;
+  font-size: 12px;
+  letter-spacing: 1px;
+  font-style: italic;
+  text-transform: uppercase;
+}
+
+.bottom-right {
+  width: 325px;
+  float: right;
+}
+
+.bottom-right h2 {
+  font-size: 28px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 20px;
+}
+
+.social-media img {
+  height: 50px;
+  margin-right: 10px;
+}
