@@ -1,5 +1,5 @@
 body {
-	background: #010101;
+	background: #1a1919;
 	color: #FCFCFC;
 	font-family: 'Montserrat', sans-serif;
 }
@@ -14,10 +14,11 @@ body {
 }
 
 .logo {
-  width: 281px;
+  width: 350px;
   display: inline-block;
-  padding-top: 120px;
-  padding-bottom: 120px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  margin-top: -35px;
 }
 
 .logo img {
