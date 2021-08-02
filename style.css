@@ -1,5 +1,6 @@
 body {
 	background: #1a1919;
+  background: #1a1919 url(images/wave.svg) no-repeat center bottom fixed;
 	color: #FCFCFC;
 	font-family: 'Montserrat', sans-serif;
 }
